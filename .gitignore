@@ -24,6 +24,7 @@ Zelig/mbed-rtos.lib
 *.ll
 *.bc
 *_opt.o
+*.opendb
 
 ## OpenOCD
 Zelig/tools/openocd/*
